@@ -1,4 +1,4 @@
-// testando codesandbox com github
+// testing simple view express react
 const express = require("express");
 
 const app = express();
